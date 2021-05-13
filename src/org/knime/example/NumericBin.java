@@ -35,6 +35,10 @@ import org.knime.core.node.ModelContentWO;
  * 
  * @author KNIME.com AG, Zurich, Switzerland
  */
+
+
+
+
 public class NumericBin {
     
     private static final String CFG_KEY_CELLS = "rowIds";

@@ -33,6 +33,10 @@ import org.knime.core.data.def.IntCell;
  * 
  * @author KNIME.com AG, Zurich, Switzerland
  */
+
+
+
+
 public class NumericBinnerCellFactory extends SingleCellFactory {
 
     private final List<Double> m_intervalUpperBounds;
